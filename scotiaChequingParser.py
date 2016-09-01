@@ -1,6 +1,6 @@
 import csv
 
-output_file = open("banking_output.csv", "w")
+output_file = open("bankingOutputSco.csv", "w")
 writer = csv.writer(output_file)
 
 
